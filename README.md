@@ -50,7 +50,7 @@
 ### Описание выбранных объектов и показатели <a name="par1.2"></a>
 Данные, выбранные мной для анализа, имеют следующую структуру:
 
-Это таблица $$ 100 \times 11 $$. Приведу первые пять столбцов таблицы:
+Это таблица 100 x 11. Приведу первые пять столбцов таблицы:
 
 |Country	|Happiness Rank	|Happiness Score	|Whisker (high)	|Whisker (low)	|GDP	|Family	|Health Life Expectancy	|Freedom |Generosity	|Trust (Government Corruption)|
 |---------|---|---|---|---|---|---|---|---|---|---|
