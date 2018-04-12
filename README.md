@@ -76,7 +76,8 @@
 
 ### Вычисление, описание и анализ дескриптивных статистических переменных<a name="par2.1"></a>
 Основные статистики приведены в таблице:
-|| Happiness Rank | Happiness Score | Whisker (high) | Whisker (low) | GDP        | Social support | Healthy life expectancy | Freedom    | Generosity | Perceptions of corruption | Dystopia   |
+
+|   | Happiness Rank | Happiness Score | Whisker (high) | Whisker (low) | GDP| Social support | Healthy life expectancy | Freedom    | Generosity | Perceptions of corruption | Dystopia|
 |----------------|-----------------|----------------|---------------|------------|----------------|-------------------------|------------|------------|---------------------------|------------|------------|
 |среднее          | 78.000000       | 5.354019       | 5.452326      | 5.255713   | 0.984718       | 1.188898                | 0.551341   | 0.408786   | 0.246883                  | 0.123120   | 1.850238   |
 | с.к.о.            | 44.888751       | 1.131230       | 1.118542      | 1.145030   | 0.420793       | 0.287263                | 0.237073   | 0.149997   | 0.134780                  | 0.101661   | 0.500028   |
